@@ -1,1 +1,1 @@
-# EPIC-Archery-6
+# project-C27-template
